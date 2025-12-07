@@ -1,4 +1,4 @@
-# E-Commerce Platform
+# E-Commerce Platform  ( TASK 2 - FUTURE INTERNS )
 
 A modern, full-featured mini e-commerce platform built with React.js, Tailwind CSS, and Zustand for state management.
 
@@ -103,7 +103,5 @@ The app uses Zustand for state management. The cart store (`src/store/cartStore.
 - Payment gateway integration
 - Admin dashboard
 
-## License
 
-MIT
 
